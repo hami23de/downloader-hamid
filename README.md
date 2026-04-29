@@ -26,7 +26,7 @@
 فایل اصلی دارای پسوند zip و پارت های دیگر دارای فرمت شماره گذاری شده به شکل z01 z02  و ... هستند.
 
 ## 📹 ویدیو اموزشی 
-https://www.aparat.com/v/ovb13a1
+<a href="https://www.aparat.com/v/ovb13a1" target="_blank">تماشای ویدیو اموزشی </a>
 
 ---
 happy coding !
